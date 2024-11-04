@@ -58,3 +58,9 @@ The dataset used is the **PIMA Indian Diabetes Dataset**, which includes health-
      - Recall: 0.6009783368273934
      - ...
      - Kappa: 0.45409839442244626
+
+
+### 5. Acknowledgments
+- **Dataset**: The PIMA Indian Diabetes Dataset used in this project was sourced from [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database).
+- **UN SDG 3**: This project aligns with the United Nations Sustainable Development Goal [Good Health and Well-being](https://sdgs.un.org/goals/goal3).
+- **Libraries**: The project was made possible by open-source libraries including [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/), and [numpy](https://numpy.org/).
